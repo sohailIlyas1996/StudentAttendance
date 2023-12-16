@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node index",
+    "start": "node app.js",
      "build": "echo 'Running build process...'"
   },
   "dependencies": {
